@@ -2,13 +2,13 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 Makers:
 
-* [Engineer](blob/master/engineer.md)
-* [Senior Engineer](blob/master/senior_engineer.md)
-* [Lead Engineer](blob/master/lead_engineer.md)
-* [Principal Engineer](blob/master/principal_engineer.md)
+* [Engineer](engineer.md)
+* [Senior Engineer](senior_engineer.md)
+* [Lead Engineer](lead_engineer.md)
+* [Principal Engineer](principal_engineer.md)
 
 Managers:
 
-* [Engineering Manager](blob/master/engineering_manager.md)
-* [Director, Engineering](blob/master/director_engineering.md)
+* [Engineering Manager](engineering_manager.md)
+* [Director, Engineering](director_engineering.md)
 
