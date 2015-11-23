@@ -4,7 +4,7 @@ Principal Engineer
 *Same as Lead Engineer, but also...*
 
 ### Should have
-* Advanced knowledge of all pieces of our stack (and ability to get caught up quickly)
+* Advanced knowledge of many pieces of our stack (and ability to get caught up quickly on other pieces)
 * A track record of successfully leading giant technical projects to completion
 * A track record of solving difficult technical challenges
 * The ability to anticipate technical problems ahead of time & collaborate on solving them
