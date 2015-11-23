@@ -1,7 +1,7 @@
 Lead Engineer
 =============
 
-Same as Senior Engineer, but also...
+*Same as Senior Engineer, but also...*
 
 ### Should have
 * The ability to take a nebulous project, talk to the right people, define it, split it up into tasks, and ultimately get it done quickly and efficiently
