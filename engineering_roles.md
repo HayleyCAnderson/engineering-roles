@@ -26,3 +26,32 @@ Should have:
 
 Is expected to:
 
+Lead Engineer
+---------------
+Should have:
+
+Is expected to:
+
+Product Engineering Lead (role)
+---------------
+Should have:
+
+Is expected to:
+
+Principal Engineer
+---------------
+Should have:
+
+Is expected to:
+
+Engineering Manager
+---------------
+Should have:
+
+Is expected to:
+
+Director, Engineering
+---------------
+Should have:
+
+Is expected to:
