@@ -1,7 +1,7 @@
 Senior Engineer
 ===============
 
-Same as Engineer, but also:
+*Same as Engineer, but also...*
 
 ### Should have
 
