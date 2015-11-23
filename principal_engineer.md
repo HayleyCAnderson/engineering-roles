@@ -1,7 +1,7 @@
 Principal Engineer
 ==================
 
-Same as Lead Engineer, but also:
+*Same as Lead Engineer, but also...*
 
 ### Should have
 * Advanced knowledge of all pieces of our stack (and ability to get caught up quickly)
