@@ -16,3 +16,5 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 * [Product Engineering Lead](product_engineering_lead.md)
 
+
+Prettier version of these lives [here](https://github.dev.meetup.com/pages/meetup/engineering-roles/).
