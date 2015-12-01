@@ -26,5 +26,5 @@ Senior Engineer
 * Take projects and define the tasks required for themselves and other engineers - also perform them in a high quality way without issue
 * Actively participate in frequent code/design/architecture reviews
 * Be able to communicate well with all engineers regardless of seniority
-* Work with QA effectively
+* Work across engineering teams (dev, QA, systems) to ensure new code launches smoothly
 * Interview prospective candidates and provide thoughtful evaluations and feedback
