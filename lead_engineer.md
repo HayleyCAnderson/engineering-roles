@@ -20,9 +20,9 @@ Lead Engineer
 * Allocate resources within a team to maximise output of useful and team-goal-focused engineering work
 * Monitor performance of engineers on team, and partner with engineering managers on mentoring and growth
 * Be active in the technology community, positively contribute to Meetup’s reputation, and find great candidates to grow the Meetup team
-* Develop and constantly refine technical & team fit assessments (coding exercises, interview questions, etc) for interviews
-* Ensure code/design/architecture reviews happen on teams & that work follows established best practices and standards
-* Coordinate evaluation of tools & frameworks for the engineering team
+* Develop and constantly refine technical and team fit assessments (coding exercises, interview questions, etc) for interviews
+* Ensure code/design/architecture reviews happen on teams and that work follows established best practices and standards
+* Coordinate evaluation of tools and frameworks for the engineering team
 * Take responsibility for actions of their team, good and bad
 * Be on call to support Meetup (if needed for team)
 * Be able to launch to production independently (if needed)
