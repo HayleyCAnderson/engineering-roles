@@ -22,6 +22,6 @@ Engineering Manager
 * Create and move along career development plans for direct reports
 * Be a master of administrivia (time off, goal tracking, HR stuff)
 * Be as available as possible for their reports
-* Manage difficult situations promptly & working with HR to come up with solutions
+* Manage difficult situations promptly & work with HR to come up with solutions
 * Manage technical improvement plans w/ engineers
 * Lead recruitment efforts by finding recruitment opportunities and motivating engineers to speak, do presentations & write blog posts (and do so oneself!)
