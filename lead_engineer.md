@@ -9,7 +9,7 @@ Lead Engineer
 * The ability to diagnose, fix, and coordinate deployment of bug fixes
 * The ability to do the above extremely quickly in emergency situations
 * A reputation for submitting bug/issue-free code for review and QA
-* A reputation for launching bug-free, turbulence-free code and projects 
+* A reputation for launching bug-free, turbulence-free code and projects
 * The ability to balance multiple goals across tech/product/strategy/other teams and concerns
 * The ability to communicate effectively with non-engineers of varying levels at the company
 * Stepped up to take leadership of a project or team when needed
