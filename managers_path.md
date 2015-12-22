@@ -1,16 +1,16 @@
-Managers Focus On:
+Managers focus on:
 --------
 
 ### Performance evaluation
 * Regularly collect and provide feedback to engineers in 1:1s
-* Regularly check in with engineering makers on feedback
+* Regularly speak with engineering, product, and others about feedback from/about their team members
 
 ### Career growth
 * Develop & regularly track goals and career growth plans for engineers in 1:1s
-* Partner with engineering makers on goals and career growth plans
+* Partner with engineering makers on specific technical or project goals and career growth plans
 
 ### Recruiting & resourcing
-* Leadership of team recruiting and growth with engineering and talent team
+* Leadership of team recruiting and growth as well as partnership with talent/recruiting team
 * Ensure engineers are assigned to right amount, variety, and type of work
 
 
@@ -23,4 +23,8 @@ Managers Focus On:
 ### Organization & administrative
 * Leadership of team organization, skills development, and growth plans
 * Remove obstacles for engineers and work collaboratively across teams
-* Manage an efficient process for sharing and executing company policy
+* Manage an efficient process for sharing and executing company mission and policy
+
+
+### Career Paths
+![alt text](https://github.dev.meetup.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
