@@ -15,7 +15,6 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 * [Engineering Manager](engineering_manager.md)
 * [Director, Engineering](director_engineering.md)
 * [VP, Engineering](vp_engineering.md)
-[Managers path](managers_path.md)
 
 ### Roles
 
