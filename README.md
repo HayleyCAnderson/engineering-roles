@@ -5,7 +5,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 [Makers path](makers_path.md)
 * [Engineer](engineer.md)
 * [Senior Engineer](senior_engineer.md)
-* [Lead Engineer](lead_engineer.md)
+* [Staff Engineer](staff_engineer.md)
 * [Principal Engineer](principal_engineer.md)
 * [Chief Architect](chief_architect.md)
 
