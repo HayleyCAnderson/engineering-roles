@@ -20,8 +20,12 @@ Engineering Manager
 * Be comfortable managing engineers with different experience/skillsets than their own
 * Mentor engineers, in technical and non-technical improvements
 * Create and move along career development plans for direct reports
-* Be a master of administrivia (time off, goal tracking, HR stuff)
 * Be as available as possible for their reports
 * Manage difficult situations promptly and work with HR to come up with solutions
 * Manage technical improvement plans with engineers
 * Lead recruitment efforts by finding recruitment opportunities and motivating engineers to speak, do presentations, and write blog posts (and do so oneself!)
+* Manage conference budget for direct reports, approve/deny requests
+* Communicate regularly with Product Managers/Product Engineering Leads to collect performance and collaboration feedback for direct reports
+* Identify engineers who are on track for promotion, incorporate skill development to professional development plans and recommend engineers for promotion to directors
+* Identify engineers who are not performing on teams, create performance improvement plans and assess progress to make a recommendation to directors
+* Create compensation change recommendations and share with directors
