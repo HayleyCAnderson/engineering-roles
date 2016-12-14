@@ -22,5 +22,5 @@ Principal Engineer
 * Ensure regular architecture reviews with staff/senior engineers happen and provide constructive feedback and direction during those reviews
 * Monitor performance of engineers across teams in order to identify inefficiencies and suggest improvements to leads and managers
 * Ensure our teams are always pushing towards quality, automation, continuous delivery, and speed of launching to production
-* Frequently consult with staff engineers/PMs on technical solutions
+* Frequently consult with product engineering leads / engineering leads and PMs on technical solutions
 * Do or delegate documentation of technical architecture, tools, and other specifications that an engineer would need to effectively do their job
