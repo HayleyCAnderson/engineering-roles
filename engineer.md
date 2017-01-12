@@ -17,3 +17,5 @@ Engineer
 * Follow through with the code they write and make sure it is always tested/launched/easy to maintain
 * Review other engineers’ code and provide constructive feedback
 * Help grow the engineering team through involvement in the technology community (conferences, meetups, blog posts, etc) and referrals
+* Be able to launch to production independently (if needed)
+* Have production access and use it responsibly

@@ -25,5 +25,3 @@ Staff Engineer
 * Coordinate evaluation of tools and frameworks for the engineering team
 * Take responsibility for actions of their team, good and bad
 * Be on call to support Meetup (if needed for team)
-* Be able to launch to production independently (if needed)
-* Have production access and use it responsibly
