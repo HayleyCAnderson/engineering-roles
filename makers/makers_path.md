@@ -1,14 +1,14 @@
-Makers focus on:
+Makers focus on: software architecture and development that drives results
 --------
 
 ### Architecture & framework & software development
-* PEs lead researching new frameworks and technologies with other engineers
-* PEs are decision makers on adoption and architecture into stack and frameworks
+* Principals lead researching new frameworks and technologies with other engineers
+* Principals are decision makers on adoption and architecture into stack and frameworks
 * All engineers: hands-on architecture and development into stack and product
 
 ### Best practices & architecture & code reviews
-* PEs ensure architecture reviews happen across product teams with PELs
-* PEs ensure that best practices and style guides are documented, followed, and maintained
+* Principals ensure architecture reviews happen across product teams with PELs
+* Principals ensure that best practices and style guides are documented, followed, and maintained
 * All engineers: ensure code/architecture reviews happen and that best practices and style guides are documented, followed, and maintained
 
 ### Technical skills evaluation & mentoring
@@ -27,4 +27,4 @@ Makers focus on:
 * Partner with managers on adoption of process improvements
 
 ### Career Paths
-![alt text](https://github.dev.meetup.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
+![alt text](https://github.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
