@@ -1,4 +1,4 @@
-Managers focus on:
+Managers focus on: team management and development that drives results
 --------
 
 ### Performance evaluation
@@ -27,4 +27,4 @@ Managers focus on:
 
 
 ### Career Paths
-![alt text](https://github.dev.meetup.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
+![alt text](https://github.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
