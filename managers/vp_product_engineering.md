@@ -19,7 +19,7 @@ VP, Product Engineering
 * Continuously improve the product engineering team’s capacity and capability to deliver by monitoring performance and execution, identifying inefficiencies, eliminating blockers, and working to improve them with directors and managers
 * Ensure that directors and principal engineers are mentoring, managing, and directing their teams effectively towards hitting key results
  
-#### Strategy
+### Strategy
 * Work closely with the CTO to communicate the priorities of the product engineering team to company leadership, defining objectives and key results, and ensuring alignment across the company
 * Partner with Leadteam, CTO, Product, and Strategy to help design and clearly communicate a coordinated company product vision, strategy, and priorities that every member of the engineering team understands
 * Partner with CTO to translate product and engineering vision, strategy, and priorities to clear and actionable engineering roadmap, objectives, and key results and frequently communicate out to the engineering team
