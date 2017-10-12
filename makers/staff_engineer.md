@@ -24,4 +24,3 @@ Staff Engineer
 * Ensure code/design/architecture reviews happen on teams and that work follows established best practices and standards
 * Coordinate evaluation of tools and frameworks for the engineering team
 * Take responsibility for actions of their team, good and bad
-* Be on call to support Meetup (if needed for team)
