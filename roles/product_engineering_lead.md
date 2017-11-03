@@ -24,7 +24,6 @@ For context how this role relates to other Engineering roles, see [Roles Overvie
 * Manage the growth/shrinkage and coordination of engineering group in support of a Product Domain, including recommendation of forming/merging Teams within the domain.
 * As needed, assign, coordinate, and manage Team Leads and Project Leads.
 * For groups without Team or Project Leads, it is expected that the PEL assumes these responsibilities.
-
 * Coordinate with leads on other teams when cross-team work is necessary, or when a project might have cross-team implications
 * Represent Engineering in high-level product discussions, updates, and meetings around the company
 * Provide technical feedback, support, and evaluation for other engineers on team
