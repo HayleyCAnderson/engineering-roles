@@ -19,4 +19,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 ### Roles
 
-* [Product Engineering Lead](product_engineering_lead.md)
+[Roles Overview](roles/overview.md)
+* [Product Engineering Lead](roles/product_engineering_lead.md)
+* [Team Lead](roles/team_lead.md)
+* [Project Lead](roles/project_lead.md)
