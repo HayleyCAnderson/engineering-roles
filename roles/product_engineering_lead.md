@@ -21,7 +21,7 @@ For context how this role relates to other Engineering roles, see [Roles Overvie
 * Manage an Architectural Domain supporting a Product Domain
 * Coordinate support and maintenance of Product Domain in production
 * Serve as the point person for the Architectural Domain
-* Manage the growth/shrinkage and coordination of engineering Teams and Projects for a Product Domain, including recommendation of forming/merging Teams within the domain.
+* Manage the growth/shrinkage and coordination of engineering group in support of a Product Domain, including recommendation of forming/merging Teams within the domain.
 * As needed, assign, coordinate, and manage Team Leads and Project Leads.
 * For groups without Team or Project Leads, it is expected that the PEL assumes these responsibilities.
 
