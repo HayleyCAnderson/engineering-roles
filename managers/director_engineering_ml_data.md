@@ -27,7 +27,7 @@ Director, Machine Learning & Data Engineering
 * Oversee and manage engineers across Machine Learning & Data Engineering
 * Ensure that engineering managers and team leads are mentoring and managing teams effectively towards results
 * Coordinate engineering resources across Machine Learning & Data Engineering and strategically plan for the future with the CTO/VP/Directors, product, and recruiting
-* Mentor direct reports (Zachary, Evan, and Matt D) in technical and non-technical improvements and growth
+* Mentor direct reports in technical and non-technical improvements and growth
 * Help engineering managers create and ensure they’re moving along career development plans for direct reports
 * Be an engaged part of the company leadership team setting policies, goals, and budgets
 * Partner with Employee Experience and lead strategy and vision for recruitment and growth efforts of Machine Learning & Data Engineering
