@@ -14,7 +14,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 [Managers path](managers/managers_path.md)
 * [Engineering Manager](managers/engineering_manager.md)
-* [Director, Engineering](managers/director_engineering.md)
+* [Director, Engineering](managers/director_engineering.md) || [Director, Machine Learning & Data Engineering](managers/director_engineering_ml_data.md) 
 * [VP, Product Engineering](managers/vp_product_engineering.md) || [VP, Platform Engineering](managers/vp_platform_engineering.md)
 
 ### Roles
